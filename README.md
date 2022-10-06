@@ -1,3 +1,10 @@
-# Template de Currículo 
+# Curriculum Vitae (CV)
 
-Template em HTML e CSS para um breve hands on durante a Master Class "Criando um Currículo de Sucesso - O Passo a Passo em Tempo Real".
+
+
+Currículo baseado no template em HTML e CSS desenvolvido pela W3Schools.
+Template disponível em: https://www.w3schools.com/howto/howto_website_create_resume.asp
+
+
+
+link do meu cv: https://gesielrodrigues.github.io/cv/
